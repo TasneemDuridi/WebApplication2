@@ -1,0 +1,10 @@
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\bin\WebApplication2.xml
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+C:\Users\Tasneem\Documents\GitHub\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
